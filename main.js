@@ -1,4 +1,4 @@
-// Beda dengan di file python, kali ini saya akan menjunjung readability
+// Beda dengan di file python, kali ini saya akan menjunjung readability 😎
 
 const tinggiSegitiga = require("readline").createInterface({
   input: process.stdin,
