@@ -1,0 +1,1 @@
+for i in reversed(range(1, int(input("Masukkan tinggi segitiga siku-siku: "))+1)): print(' '.join([str(i) for i in reversed(range(1, i+1))])) ### Satu baris nih kak, berarti harus juara 1 xixixi ngakak abiezzz
